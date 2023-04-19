@@ -60,7 +60,7 @@ _Los pasos a seguir para realizar la instalacion correcta del proyecto._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/michaelv-alvarez/swoosh-ecommerce.git && CAMBIAR
+   git clone https://github.com/lCrozX/ProyectoFinalRJS-Romano.git
    ```
 2. Navegar a la ruta del proyecto
     ```sh
